@@ -1,0 +1,11 @@
+#######################################
+# Syntax Coloring Map Thermocouple
+#######################################
+
+Thermocouple	KEYWORD1
+KtypeTemp	KEYWORD2
+KtypeVoltage	KEYWORD2
+StypeVoltage	KEYWORD2
+StypeTemp	KEYWORD2
+JtypeVoltage	KEYWORD2
+JtypeVolt	KEYWORD2
